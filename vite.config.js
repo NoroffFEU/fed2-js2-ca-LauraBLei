@@ -5,8 +5,6 @@ export default defineConfig({
   appType: "mpa",
   base: "/fed2-js2-ca-LauraBLei/",
   build: {
-    outDir: "build",
-    sourcemap: true,
     target: "esnext",
     rollupOptions: {
       input: {
