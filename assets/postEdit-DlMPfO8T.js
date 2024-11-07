@@ -6,3 +6,4 @@ import{m as l}from"./header-RH2cM1rY.js";import{b as m,h as d}from"./headers-C9O
 <input class="formInputOne" type="text" name="tags" placeholder="Title" value="${t.tags}" />
 <button class="text-3xl text-blue buttonEffect font-bold"> Save </button>
 `};h();export{h as makeEditForm};
+//# sourceMappingURL=postEdit-DlMPfO8T.js.map

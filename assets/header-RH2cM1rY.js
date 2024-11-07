@@ -10,3 +10,4 @@ function c(){localStorage.removeItem("userinfo"),localStorage.removeItem("token"
               class="fa-solid fa-right-from-bracket fa-2xl"
               style="color: #ffffff"
             ></i>`,n.addEventListener("click",c),f.appendChild(l),l.append(o,s),s.append(e,t,a,n)};export{i as m};
+//# sourceMappingURL=header-RH2cM1rY.js.map
